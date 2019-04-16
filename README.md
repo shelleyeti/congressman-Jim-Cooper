@@ -1,1 +1,3 @@
-# congressman-Jim-Cooper
+Congressman Jim Cooper
+
+Using flexbox, media queries, css styling
