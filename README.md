@@ -1,3 +1,5 @@
-Congressman Jim Cooper
+# Congressman Jim Cooper
 
-Using flexbox, media queries, css styling
+1. Using flexbox
+1. Media queries 
+1. CSS styling
